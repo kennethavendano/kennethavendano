@@ -1,4 +1,5 @@
 ### Hi there 👋
+- I'm currently studying Computer Sceince at the University of Rhode Island
 
 <!--
 **kennethavendano/kennethavendano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
